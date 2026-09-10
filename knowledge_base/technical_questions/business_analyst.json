@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Walk through the steps of a requirements elicitation process. Which techniques do you use when stakeholders are vague about what they need?",
+    "difficulty": "intermediate",
+    "topic": "Requirements Elicitation",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "What is a use case vs a user story? When would you choose one format over the other in a project?",
+    "difficulty": "basic",
+    "topic": "Requirements Documentation",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "Explain the difference between functional and non-functional requirements. Give three examples of each for an e-commerce platform.",
+    "difficulty": "basic",
+    "topic": "Requirements Documentation",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "Describe the process of creating a business process model using BPMN. What are the core elements and symbols used?",
+    "difficulty": "intermediate",
+    "topic": "Business Process Modelling",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "What is gap analysis? Walk through how you performed one in a previous project — what the current state was, the desired state, and the gaps identified.",
+    "difficulty": "intermediate",
+    "topic": "Analysis Techniques",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "How do you perform stakeholder analysis? What tools or matrices do you use to map stakeholder influence versus interest?",
+    "difficulty": "intermediate",
+    "topic": "Stakeholder Management",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "Describe the Software Development Life Cycle (SDLC). Compare Waterfall and Agile methodologies and when each is appropriate.",
+    "difficulty": "basic",
+    "topic": "SDLC & Methodologies",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "What is a Data Flow Diagram (DFD)? Explain the difference between Level 0, Level 1, and Level 2 DFDs with examples.",
+    "difficulty": "intermediate",
+    "topic": "Data Modelling",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "How do you define and document acceptance criteria for a user story? What is the Given-When-Then format?",
+    "difficulty": "intermediate",
+    "topic": "Requirements Documentation",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "Describe how you approach creating a traceability matrix. Why is it important for project quality assurance?",
+    "difficulty": "intermediate",
+    "topic": "Requirements Traceability",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "What is a SWOT analysis? Walk through an example of how you applied it to support a business decision.",
+    "difficulty": "basic",
+    "topic": "Analysis Techniques",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "How do you handle conflicting requirements from multiple stakeholders? Describe the negotiation and prioritisation process you follow.",
+    "difficulty": "advanced",
+    "topic": "Stakeholder Management",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "Explain the concept of change management in the context of a BA role. How do you ensure new system changes are adopted by end users?",
+    "difficulty": "advanced",
+    "topic": "Change Management",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "What is the difference between as-is and to-be process mapping? How do you identify inefficiencies in the current state?",
+    "difficulty": "intermediate",
+    "topic": "Business Process Modelling",
+    "role": "Business Analyst"
+  },
+  {
+    "question": "How do you validate requirements? What techniques — such as prototyping, JAD sessions, or reviews — do you use to confirm that requirements are complete and correct?",
+    "difficulty": "advanced",
+    "topic": "Requirements Validation",
+    "role": "Business Analyst"
+  }
+]

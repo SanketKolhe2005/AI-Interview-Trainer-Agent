@@ -1,0 +1,282 @@
+INTERVIEW PREPARATION GUIDE
+============================
+A comprehensive guide for candidates preparing for professional job interviews.
+
+
+==============================================================================
+SECTION 1: BEFORE THE INTERVIEW — GENERAL PREPARATION STRATEGIES
+==============================================================================
+
+1.1 Research the Company
+------------------------
+Before any interview, invest at least 2–3 hours researching the company:
+- Visit the company website: understand the mission, products, customers, and values.
+- Read recent news, press releases, and earnings reports (for public companies).
+- Review the company's LinkedIn, Glassdoor, and job description carefully.
+- Understand the company's competitors and market position.
+- Know the interviewer's background if you have their name — review their LinkedIn.
+
+Goal: Be able to answer "Why do you want to work here?" with specificity, not generalities.
+
+1.2 Know Your Own Resume
+------------------------
+Interviewers often ask about every bullet on your resume. You must be able to:
+- Explain every project, tool, and technology listed.
+- Quantify your impact: "I improved X by Y% by doing Z."
+- Tell a coherent story of your career progression.
+- Prepare 3–5 key stories from your career that demonstrate different competencies.
+
+1.3 Prepare Your Key Stories Using STAR
+----------------------------------------
+Prepare 5–8 career stories you can adapt to any question. Cover:
+- A challenge you overcame
+- A project you led
+- A conflict you resolved
+- A mistake you made and learned from
+- A time you showed initiative or innovation
+
+1.4 Practice Out Loud
+----------------------
+Thinking through answers in your head is not the same as saying them aloud:
+- Practise with a friend, mentor, or in front of a mirror.
+- Record yourself — listen back for clarity, pace, and filler words (um, uh, like).
+- Time your answers: behavioural answers should be 1.5–3 minutes; technical answers can be longer.
+
+1.5 Prepare Questions for the Interviewer
+-------------------------------------------
+Always prepare 3–5 thoughtful questions to ask. Avoid questions about salary/benefits in early rounds.
+Good questions:
+- "What does success look like in this role in the first 90 days?"
+- "What are the biggest challenges the team is currently facing?"
+- "How does the team approach learning and professional development?"
+- "What does the engineering/product culture look like day to day?"
+
+1.6 Logistics
+-------------
+- Confirm the interview format (video, phone, in-person, whiteboard, take-home).
+- For video: test your camera, microphone, lighting, and internet connection beforehand.
+- For in-person: know the address, plan your route, arrive 10–15 minutes early.
+- Have a copy of your resume printed or easily accessible.
+
+
+==============================================================================
+SECTION 2: THE STAR METHOD — BEHAVIOURAL INTERVIEW FRAMEWORK
+==============================================================================
+
+2.1 What Is the STAR Method?
+-----------------------------
+STAR is a structured framework for answering behavioural interview questions — questions that begin with:
+- "Tell me about a time when..."
+- "Describe a situation where..."
+- "Give me an example of..."
+
+STAR stands for:
+S — Situation: Set the scene. Provide the context — where, when, who was involved, and why it mattered.
+T — Task: Describe your specific responsibility or the challenge you faced.
+A — Action: Explain exactly what YOU did — the steps you took, decisions you made, and why.
+R — Result: Share the outcome — what happened because of your actions? Quantify where possible.
+
+2.2 STAR Tips
+--------------
+- Keep the Situation and Task brief (20% of the answer) — spend most time on Action (50%) and Result (30%).
+- Always use "I" not "we" — interviewers want to know your specific contribution.
+- Quantify results: "Reduced deployment time by 40%" beats "improved the process".
+- If the result was negative, own it and add what you learned (shows growth mindset).
+- Avoid hypothetical answers — you must draw from real experience.
+
+2.3 Common STAR Competencies and What Interviewers Look For
+------------------------------------------------------------
+- Leadership: Did you take initiative, inspire others, and deliver a result?
+- Teamwork: Did you collaborate, communicate, and resolve conflicts constructively?
+- Problem Solving: Did you define the problem clearly, consider options, and choose the best path?
+- Adaptability: Did you handle unexpected change without losing effectiveness?
+- Communication: Did you tailor your message to your audience and drive alignment?
+- Accountability: Did you own failures, not deflect blame?
+
+
+==============================================================================
+SECTION 3: TECHNICAL INTERVIEW PREPARATION
+==============================================================================
+
+3.1 Coding Interview Strategy
+------------------------------
+Step 1: Clarify the problem — ask about edge cases, input constraints, and expected output before writing code.
+Step 2: Think out loud — interviewers evaluate your thinking, not just your code.
+Step 3: Start with a brute-force solution — then optimise.
+Step 4: Analyse time and space complexity using Big-O notation.
+Step 5: Test your solution — walk through examples, including edge cases.
+
+Topics to Master:
+- Arrays and strings
+- Hash maps and sets
+- Linked lists
+- Trees (binary trees, BSTs, traversals)
+- Graphs (BFS, DFS, shortest path)
+- Dynamic programming (memoisation, tabulation)
+- Sorting and searching algorithms
+- Recursion and backtracking
+- System design principles
+
+3.2 System Design Interview Strategy
+--------------------------------------
+Structure your answer using this framework:
+1. Clarify requirements (functional and non-functional).
+2. Estimate scale (users, requests per second, data volume).
+3. Design the high-level architecture (API gateway, services, database, cache).
+4. Deep-dive into key components (database schema, API design, caching strategy).
+5. Identify trade-offs and discuss alternatives.
+
+Key Topics:
+- Load balancing and horizontal scaling
+- CAP theorem and consistency models
+- Relational vs. NoSQL database trade-offs
+- Caching strategies (write-through, write-back, cache invalidation)
+- Message queues and event-driven architectures
+- CDN, DNS, and networking basics
+
+3.3 Domain-Specific Technical Preparation
+------------------------------------------
+Software Engineers: Practise LeetCode/HackerRank medium/hard problems. Review design patterns and OOP.
+Data Scientists: Practise ML case studies, statistics problems, and Python/SQL coding questions.
+DevOps Engineers: Practise Kubernetes YAML configuration, Terraform scripts, and incident response scenarios.
+Product Managers: Practise product case studies, estimation problems, and metrics definition.
+Business Analysts: Practise writing user stories, BPMN modelling, and SQL queries.
+
+
+==============================================================================
+SECTION 4: HR INTERVIEW PREPARATION
+==============================================================================
+
+4.1 Self-Introduction (Tell Me About Yourself)
+-----------------------------------------------
+Structure your self-introduction as a 90-second professional narrative:
+1. Present: Your current role and what you do.
+2. Past: Key highlights of your background (1–2 career milestones).
+3. Future: Why you are excited about this opportunity.
+
+Example structure:
+"I am a software engineer with 4 years of experience building distributed backend systems at [Company]. Before that, I completed my degree in Computer Science at [University], where I worked on a machine learning research project. I am looking for an opportunity to work on larger-scale systems and contribute to product-focused engineering, which is why this role at [Company] is particularly exciting to me."
+
+4.2 Salary Negotiation
+-----------------------
+- Research market rates on LinkedIn Salary, Glassdoor, and Levels.fyi before the interview.
+- In early rounds, deflect if possible: "I am flexible — what is the budgeted range for this role?"
+- If forced to give a number, give a range with your target at the lower end.
+- Never reveal your current salary unless legally required.
+
+4.3 Handling Difficult HR Questions
+-------------------------------------
+"What is your greatest weakness?"
+  - Choose a real but non-critical weakness.
+  - Demonstrate that you are actively working to improve it.
+  - Avoid clichés like "I am a perfectionist."
+
+"Why are you leaving your current job?"
+  - Be positive and forward-looking. Focus on what the new opportunity offers, not what the old one lacks.
+  - Never speak negatively about your current employer.
+
+"Tell me about a failure."
+  - Own it completely — no blaming others.
+  - Focus 80% on what you learned and did differently.
+
+
+==============================================================================
+SECTION 5: BEHAVIOURAL INTERVIEW PREPARATION
+==============================================================================
+
+5.1 Prepare a Story Bank
+-------------------------
+Map your career stories to common competencies. Ensure you have at least one story per competency:
+- Leadership
+- Teamwork & Collaboration
+- Conflict Resolution
+- Problem Solving
+- Adaptability to Change
+- Accountability for Failure
+- Innovation or Continuous Improvement
+- Time Management Under Pressure
+- Influencing Without Authority
+- Mentoring or People Development
+
+5.2 Company Values Alignment
+-----------------------------
+Most companies publish their values (e.g. Amazon Leadership Principles, Google's values, IBM's values).
+Read them before the interview and map each value to a story from your story bank.
+Interviewers often evaluate candidates against these values explicitly.
+
+5.3 Behavioural Interview Do's and Don'ts
+------------------------------------------
+DO:
+- Be specific and concrete — vague stories are weak.
+- Use quantified results wherever possible.
+- Focus on YOUR actions, not the team's.
+- Show self-awareness and growth from difficult situations.
+
+DON'T:
+- Blame teammates, managers, or organisations for failures.
+- Use hypothetical situations instead of real ones.
+- Ramble — keep answers between 1.5 and 3 minutes.
+- Skip the Result — always close the story.
+
+
+==============================================================================
+SECTION 6: BODY LANGUAGE AND PRESENTATION TIPS
+==============================================================================
+
+6.1 Non-Verbal Communication
+------------------------------
+- Eye contact: Maintain natural eye contact — not staring, but not avoiding. For video calls, look at the camera, not your own image.
+- Posture: Sit upright. Leaning slightly forward conveys engagement and interest.
+- Gestures: Use measured hand gestures to emphasise points — avoid fidgeting.
+- Smile: A natural smile conveys confidence and approachability.
+- Nodding: Nod when the interviewer speaks to show active listening.
+
+6.2 Voice and Pace
+-------------------
+- Speak at a measured pace — nerves cause people to rush.
+- Use pauses strategically — a brief pause before answering shows reflection.
+- Vary your tone to express enthusiasm — avoid a monotone delivery.
+- Avoid filler words: "um", "uh", "like", "you know". Replace with a pause.
+
+6.3 Virtual Interview Tips
+----------------------------
+- Frame yourself properly: camera at eye level, face well lit from the front.
+- Use a clean, professional background — or a neutral virtual background.
+- Silence notifications and close unnecessary applications.
+- Have a glass of water nearby.
+- Log in 5 minutes early to test audio and video.
+
+6.4 Dress and Appearance
+--------------------------
+- Research the company culture — "business casual" means different things in different industries.
+- When in doubt, dress one level above what you think the team wears.
+- For virtual interviews, dress professionally from the waist up at minimum.
+
+
+==============================================================================
+SECTION 7: COMMON INTERVIEW MISTAKES TO AVOID
+==============================================================================
+
+1. Insufficient preparation: Not researching the company, role, and interviewer.
+2. Vague answers: Saying "we did X" instead of "I did X." Failing to provide specific examples.
+3. Negativity: Speaking poorly of past employers, managers, or colleagues.
+4. Overconfidence or arrogance: Dismissing the interviewer's suggestions in technical discussions.
+5. Underconfidence: Excessive qualifiers — "I am not sure but...," "this might be wrong, but..."
+6. Talking too much: Rambling without a clear structure or conclusion.
+7. Talking too little: One-sentence answers that give the interviewer nothing to work with.
+8. Not asking questions: Failing to ask any questions signals lack of interest.
+9. Checking your phone or being distracted during a virtual interview.
+10. Misrepresenting experience: Claiming skills or experiences you do not have — experienced interviewers will probe deeply.
+11. Failing to follow up: Not sending a thank-you note or follow-up email within 24 hours.
+12. Ignoring non-verbal cues: Not noticing when the interviewer seems confused or wants you to wrap up.
+
+
+==============================================================================
+SECTION 8: POST-INTERVIEW ACTIONS
+==============================================================================
+
+- Send a personalised thank-you email within 24 hours to each interviewer.
+- Reference something specific from your conversation to make it memorable.
+- Reflect on the interview: What went well? What would you answer differently?
+- If you do not hear back within the stated timeline, follow up politely once.
+- Whether you get the offer or not, request feedback — it is invaluable for your next interview.

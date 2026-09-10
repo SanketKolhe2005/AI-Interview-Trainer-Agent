@@ -1,0 +1,51 @@
+ROLE: Product Manager
+======================
+
+ROLE OVERVIEW
+-------------
+A Product Manager (PM) owns the vision, strategy, and execution of a product or product area. They act as the connective tissue between engineering, design, marketing, sales, and customer success. A PM defines what to build, why to build it, and when, and is accountable for the product's success as measured by user and business outcomes. PMs are not people managers — they lead through influence and conviction.
+
+KEY RESPONSIBILITIES
+--------------------
+- Define and communicate a clear product vision and strategy aligned to business goals
+- Conduct user research, interviews, and usability testing to deeply understand customer problems
+- Build and maintain a prioritised product roadmap based on customer value, business impact, and feasibility
+- Write clear product requirements documents (PRDs), epics, and user stories with acceptance criteria
+- Collaborate with design to create and iterate on prototypes and user flows
+- Work with engineering teams in agile/scrum to deliver features iteratively
+- Define success metrics and OKRs for product initiatives and track them post-launch
+- Conduct competitive analysis and monitor market trends to inform product decisions
+- Manage stakeholder expectations across executives, customers, and internal teams
+- Launch features and coordinate go-to-market activities with marketing and sales
+
+IMPORTANT SKILLS
+----------------
+Product & Strategic Skills:
+- Product discovery: user interviews, jobs-to-be-done, opportunity mapping
+- Prioritisation frameworks: RICE, ICE, MoSCoW, Kano, Value vs. Effort
+- Roadmapping tools: Aha!, Jira, ProductBoard, Trello
+- Metrics definition: activation rate, retention, NPS, churn, DAU/MAU, conversion
+- A/B testing and experimentation design
+- Go-to-market planning: positioning, launch sequencing, channel strategy
+
+Technical Fluency (not coding):
+- Ability to read API documentation and understand technical trade-offs
+- Understanding of system architecture at a conceptual level
+- Familiarity with data analysis tools: SQL basics, Mixpanel, Amplitude, Google Analytics
+
+Soft Skills:
+- Persuasion and influence without authority
+- Structured thinking and clear written communication
+- Empathy for users and for engineering/design teammates
+- Comfort with ambiguity and rapid iteration
+
+COMMON INTERVIEW FOCUS AREAS
+------------------------------
+1. Product Design & Strategy: "Design a product for X." Walk through problem definition, user research, personas, and feature prioritisation. Show structured thinking.
+2. Prioritisation: Given 10 feature requests and limited engineering capacity, how do you decide? Know RICE, MoSCoW, and be ready to defend your choices.
+3. Metrics & Analytics: What metrics would you track for feature Y? Define success, leading indicators, and guard rail metrics. Know funnel metrics.
+4. Execution & Delivery: How do you work with engineering? How do you handle scope creep? What is your sprint ceremony cadence?
+5. User Research: How do you validate a hypothesis? What research methods do you use and when?
+6. Behavioural: Conflict with engineering, pushing back on executives, handling a failed launch.
+7. Estimation & Case Studies: Market sizing, business case calculations, back-of-envelope reasoning.
+8. Product Sense: "How would you improve [well-known product]?" Demonstrate taste, user empathy, and business acumen.

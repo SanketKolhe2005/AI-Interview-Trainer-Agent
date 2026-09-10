@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Explain the bias-variance trade-off. How do you identify whether a model is underfitting or overfitting, and what steps do you take to address each?",
+    "difficulty": "intermediate",
+    "topic": "Machine Learning Fundamentals",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "What is the difference between bagging and boosting? Give an example of an algorithm for each and describe when you would choose one over the other.",
+    "difficulty": "intermediate",
+    "topic": "Ensemble Methods",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "Describe the steps in a complete data science project lifecycle from problem definition to deployment. What tools and frameworks do you use at each stage?",
+    "difficulty": "intermediate",
+    "topic": "Data Science Workflow",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "How do you handle missing data in a dataset? Compare mean/median imputation, KNN imputation, and model-based imputation in terms of when each is appropriate.",
+    "difficulty": "intermediate",
+    "topic": "Data Preprocessing",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "Explain precision, recall, F1-score, and AUC-ROC. In a fraud detection system, which metric would you optimise and why?",
+    "difficulty": "intermediate",
+    "topic": "Model Evaluation",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "What is regularisation in machine learning? Compare L1 (Lasso) and L2 (Ridge) regularisation and explain the effect of each on model coefficients.",
+    "difficulty": "intermediate",
+    "topic": "Machine Learning Fundamentals",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "Explain the curse of dimensionality. What dimensionality reduction techniques would you use and when would you choose PCA over t-SNE or UMAP?",
+    "difficulty": "advanced",
+    "topic": "Feature Engineering",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "How does a gradient boosting algorithm like XGBoost differ from a standard decision tree? Describe the key hyperparameters you would tune.",
+    "difficulty": "advanced",
+    "topic": "Ensemble Methods",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "What is A/B testing? Walk through the steps of designing a valid A/B test, including how you determine sample size and statistical significance.",
+    "difficulty": "intermediate",
+    "topic": "Statistics & Experimentation",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "Explain the difference between supervised, unsupervised, and reinforcement learning. Give one real-world use case for each.",
+    "difficulty": "basic",
+    "topic": "Machine Learning Fundamentals",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "You have a highly imbalanced dataset for a classification problem (1% positive class). How do you handle this during training and evaluation?",
+    "difficulty": "advanced",
+    "topic": "Model Training",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "What is the difference between a parametric and a non-parametric model? Give examples of each and describe their trade-offs.",
+    "difficulty": "intermediate",
+    "topic": "Machine Learning Fundamentals",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "Describe how a Transformer model works. What is self-attention and why was it a significant improvement over RNNs for NLP tasks?",
+    "difficulty": "advanced",
+    "topic": "Deep Learning & NLP",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "How do you monitor a machine learning model in production? What are the signs of model drift and how do you address it?",
+    "difficulty": "advanced",
+    "topic": "MLOps",
+    "role": "Data Scientist"
+  },
+  {
+    "question": "Write a SQL query to find the top 3 products by revenue for each region from a sales table. Explain window functions and when you would use them.",
+    "difficulty": "intermediate",
+    "topic": "SQL & Data Engineering",
+    "role": "Data Scientist"
+  }
+]

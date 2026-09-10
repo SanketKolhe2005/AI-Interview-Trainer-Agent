@@ -1,0 +1,49 @@
+ROLE: DevOps Engineer
+======================
+
+ROLE OVERVIEW
+-------------
+A DevOps Engineer bridges software development and IT operations by building and maintaining the automation, infrastructure, and tooling that enable fast, reliable software delivery. They own the CI/CD pipelines, cloud infrastructure, monitoring systems, and on-call processes that keep production systems healthy. A DevOps Engineer champions a culture of collaboration between developers and operations teams.
+
+KEY RESPONSIBILITIES
+--------------------
+- Design, build, and maintain CI/CD pipelines for automated testing and deployment
+- Manage cloud infrastructure using Infrastructure as Code (Terraform, Pulumi, CloudFormation)
+- Containerise applications using Docker and orchestrate them with Kubernetes
+- Implement and maintain monitoring, alerting, and observability stacks (Prometheus, Grafana, ELK, Datadog)
+- Ensure system security by managing secrets, network policies, and access controls
+- Define and enforce deployment strategies (blue-green, canary, rolling updates)
+- Perform capacity planning and cost optimisation for cloud infrastructure
+- Respond to production incidents, perform root cause analysis, and implement preventative measures
+- Collaborate with development teams to improve build times, deployment frequency, and system reliability
+- Maintain runbooks, architecture diagrams, and operational documentation
+
+IMPORTANT SKILLS
+----------------
+Technical Skills:
+- CI/CD tools: Jenkins, GitHub Actions, GitLab CI, CircleCI
+- Containerisation: Docker, Docker Compose
+- Container orchestration: Kubernetes (deployments, services, ingress, RBAC, HPA)
+- Infrastructure as Code: Terraform, Ansible, Pulumi
+- Cloud platforms: AWS, GCP, or Azure — compute, networking, storage, IAM
+- Monitoring and observability: Prometheus, Grafana, ELK Stack, Jaeger, Datadog
+- Scripting: Bash, Python, or Go for automation
+- Networking: DNS, load balancers, VPNs, firewalls, TCP/IP
+- Security: Secrets management (Vault, AWS Secrets Manager), vulnerability scanning, RBAC
+
+Soft Skills:
+- Systems thinking — understanding how components interact at scale
+- Ownership and accountability — production is always your responsibility
+- Calm under pressure — incident response requires clear-headed decision-making
+- Collaborative communication with developers and architects
+
+COMMON INTERVIEW FOCUS AREAS
+------------------------------
+1. CI/CD Design: Walk through designing a CI/CD pipeline for a microservices application. Know Jenkins, GitHub Actions, ArgoCD, and GitOps patterns.
+2. Kubernetes: Architecture, pod scheduling, services, ingress controllers, autoscaling, RBAC, and network policies.
+3. Infrastructure as Code: Terraform state management, modules, workspaces, and remote backends.
+4. Incident Response: Describe an incident you handled. Know how to do a blameless post-mortem. Understand SLOs, SLAs, error budgets.
+5. Cloud Architecture: Designing VPCs, subnets, load balancers, and IAM policies on AWS/GCP/Azure.
+6. Security: Secrets management, container security scanning, least-privilege principles.
+7. Scripting: Bash scripting for automation; Python for tooling. Expect live coding tasks.
+8. Observability: How do you know your system is healthy? Metrics, logs, and distributed tracing.

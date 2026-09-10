@@ -1,0 +1,47 @@
+ROLE: Data Scientist
+=====================
+
+ROLE OVERVIEW
+-------------
+A Data Scientist extracts actionable insights from structured and unstructured data by applying statistical analysis, machine learning, and data visualisation techniques. They work closely with business stakeholders to define data-driven problems and deliver models, analyses, and recommendations that inform product and strategy decisions. A Data Scientist bridges the gap between raw data and business value.
+
+KEY RESPONSIBILITIES
+--------------------
+- Formulate data science problems from vague business questions
+- Collect, clean, and preprocess data from multiple sources including databases, APIs, and third-party datasets
+- Perform exploratory data analysis (EDA) to understand distributions, correlations, and anomalies
+- Select, build, and evaluate machine learning models for classification, regression, clustering, and recommendation
+- Communicate findings and model performance to technical and non-technical stakeholders through visualisations and reports
+- Work with data engineers to productionise models and ensure reliable data pipelines
+- Monitor deployed models for drift, degradation, and fairness issues
+- Conduct A/B tests and design experiments to validate hypotheses
+- Maintain documentation for data pipelines, models, and experiment results
+
+IMPORTANT SKILLS
+----------------
+Technical Skills:
+- Python (pandas, NumPy, scikit-learn, PyTorch, TensorFlow) or R
+- Machine learning algorithms: linear/logistic regression, decision trees, random forests, gradient boosting, SVMs, neural networks
+- Statistical foundations: hypothesis testing, confidence intervals, probability distributions, Bayesian inference
+- SQL and experience with data warehouses (BigQuery, Redshift, Snowflake)
+- Data visualisation: Matplotlib, Seaborn, Plotly, Tableau, or Power BI
+- MLOps basics: model versioning, experiment tracking (MLflow), model serving
+- Feature engineering and dimensionality reduction (PCA, t-SNE)
+- Deep learning and NLP fundamentals for advanced roles
+
+Soft Skills:
+- Intellectual curiosity and structured problem-solving
+- Storytelling with data — translating findings into business narratives
+- Stakeholder communication and expectation management
+- Attention to detail and rigour in experimental design
+
+COMMON INTERVIEW FOCUS AREAS
+------------------------------
+1. Machine Learning Theory: Expect questions on model selection, bias-variance trade-off, overfitting, regularisation, and evaluation metrics (precision, recall, AUC-ROC, RMSE).
+2. Statistics: Hypothesis testing, p-values, confidence intervals, distributions, and A/B testing design.
+3. Coding: Python coding — data manipulation with pandas, implementing ML algorithms from scratch, SQL query writing.
+4. Case Studies: Given a dataset and a business problem, describe your full modelling approach end to end.
+5. Model Evaluation & Deployment: Cross-validation, hyperparameter tuning, class imbalance handling, and MLOps basics.
+6. Domain Knowledge: Industry-specific data questions — how would you build a churn model, fraud detector, or recommendation engine?
+7. Communication: How would you explain a complex model result to a non-technical business executive?
+8. SQL: Window functions, CTEs, joins, aggregations, and optimisation.

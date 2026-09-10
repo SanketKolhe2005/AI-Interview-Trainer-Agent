@@ -1,0 +1,48 @@
+You are an expert behavioral interviewer. Generate behavioral interview questions using the STAR (Situation, Task, Action, Result) framework for the candidate profile below.
+
+CANDIDATE PROFILE
+-----------------
+Job Role         : {role}
+Experience Level : {experience}
+Key Skills       : {skills}
+Resume Summary   : {resume_summary}
+
+RETRIEVED BEHAVIORAL CONTEXT
+------------------------------
+The following behavioral questions and competency guidance have been retrieved from the knowledge base. Use them as a reference to generate questions targeting the most relevant competencies for a {role}.
+
+<context>
+{context}
+</context>
+
+INSTRUCTIONS
+------------
+1. Generate exactly {num_questions} behavioral interview questions.
+2. Each question must begin with "Tell me about a time..." or "Describe a situation where..." or "Give me an example of..." to elicit STAR-format responses.
+3. Map each question to a distinct competency relevant to the {role} role. Do not repeat competencies.
+4. Prioritise competencies most critical for success as a {role} at the {experience} level. Common competencies include:
+   - Leadership and ownership
+   - Teamwork and collaboration
+   - Conflict resolution and influencing
+   - Problem solving and analytical thinking
+   - Adaptability and handling change
+   - Time management and execution under pressure
+   - Accountability and learning from failure
+   - Communication and stakeholder management
+   - Innovation and continuous improvement
+   - Mentoring and people development (relevant for senior/lead levels)
+5. Calibrate the seniority implied in each question to the {experience} level. For freshers, focus on academic or internship experiences. For senior candidates, expect organizational-level impact.
+6. Use the retrieved context to ensure the competencies tested are relevant to {role}.
+
+OUTPUT FORMAT
+-------------
+Return a numbered list of questions. After each question, on the next line, include the target competency in the format:
+   Competency: [competency name]
+
+1. [Behavioral question]
+   Competency: [competency]
+2. [Behavioral question]
+   Competency: [competency]
+...
+
+BEGIN:

@@ -1,0 +1,51 @@
+ROLE: Business Analyst
+=======================
+
+ROLE OVERVIEW
+-------------
+A Business Analyst (BA) serves as the bridge between business stakeholders and technical teams. They identify business needs, analyse processes, and translate requirements into specifications that development teams can act upon. A BA ensures that solutions delivered by technology actually solve the underlying business problem. They work across the full project lifecycle, from discovery and requirements gathering to user acceptance testing and post-launch review.
+
+KEY RESPONSIBILITIES
+--------------------
+- Elicit, document, and validate business and functional requirements through interviews, workshops, and surveys
+- Analyse current business processes ("as-is") and design improved future-state processes ("to-be")
+- Create business process models using tools such as BPMN, UML, and flowcharts
+- Develop requirements artefacts: Business Requirements Document (BRD), Functional Requirements Document (FRD), use cases, user stories, and acceptance criteria
+- Build and maintain a requirements traceability matrix (RTM) to link requirements to test cases and deliverables
+- Facilitate JAD (Joint Application Development) sessions and requirements workshops
+- Perform gap analysis between current and desired system capabilities
+- Support user acceptance testing (UAT) and validate that delivered solutions meet requirements
+- Identify risks, dependencies, and constraints that affect delivery
+- Communicate status, issues, and recommendations to project sponsors and stakeholders
+
+IMPORTANT SKILLS
+----------------
+Analytical & Technical Skills:
+- Requirements elicitation techniques: interviews, focus groups, observation, document analysis
+- Process modelling: BPMN 2.0, UML (use case diagrams, activity diagrams, sequence diagrams)
+- Documentation: BRD, FRD, user stories, use cases, wireframes, data dictionaries
+- Data analysis: SQL basics, Excel/Google Sheets, Power BI or Tableau for reporting
+- Agile and Scrum: backlog grooming, sprint planning, writing epics and user stories
+- Tools: JIRA, Confluence, MS Visio, Balsamiq, Lucidchart
+
+Business & Stakeholder Skills:
+- Stakeholder management and mapping (influence-interest matrix)
+- Facilitation of workshops and meetings
+- Change management and adoption strategies
+
+Soft Skills:
+- Active listening and questioning — the ability to understand unstated needs
+- Clear written and verbal communication for both technical and non-technical audiences
+- Analytical rigour — decomposing complex problems into structured components
+- Negotiation — balancing what stakeholders want with what is feasible
+
+COMMON INTERVIEW FOCUS AREAS
+------------------------------
+1. Requirements Elicitation: How do you gather requirements when stakeholders are not sure what they want? Know the difference between interviews, workshops, prototyping, and document analysis.
+2. SDLC & Methodologies: Explain Waterfall vs. Agile vs. Hybrid. When does each make sense? What is your role in each?
+3. Use Cases vs. User Stories: When do you use each and how do you write acceptance criteria (Given-When-Then)?
+4. Business Process Modelling: Describe how you document an as-is process and identify improvement opportunities using BPMN.
+5. Data Modelling & SQL: Be prepared for basic SQL questions and entity-relationship diagram discussions.
+6. Gap Analysis: Describe a gap analysis you performed. How did you prioritise the gaps?
+7. Stakeholder Conflict: How do you handle conflicting requirements from two senior stakeholders with equal authority?
+8. UAT & Sign-off: How do you structure user acceptance testing and obtain formal sign-off?

@@ -1,0 +1,43 @@
+You are an experienced HR interviewer. Generate HR interview questions personalised to the candidate's profile and the target job role.
+
+CANDIDATE PROFILE
+-----------------
+Name             : {name}
+Job Role         : {role}
+Experience Level : {experience}
+Key Skills       : {skills}
+Resume Summary   : {resume_summary}
+
+RETRIEVED HR QUESTION CONTEXT
+-------------------------------
+The following HR questions and guidance have been retrieved from the knowledge base. Use them as reference and inspiration for personalising questions to this candidate.
+
+<context>
+{context}
+</context>
+
+INSTRUCTIONS
+------------
+1. Generate exactly {num_questions} HR interview questions.
+2. Personalise questions to the candidate's background — reference their experience level, career stage, and role.
+3. Cover a diverse range of HR categories. Do not generate 2 questions from the same category:
+   - Self-awareness (strengths, weaknesses, self-assessment)
+   - Career goals and motivation
+   - Culture fit and work style preferences
+   - Conflict resolution and interpersonal skills
+   - Career transitions and decision-making
+   - Accountability and handling failure
+   - Continuous learning and professional development
+4. Avoid overly generic questions — make each feel tailored to a {role} candidate at the {experience} level.
+5. Include at least one question about the candidate's motivation for applying to this type of role.
+6. Do not generate illegal or inappropriate questions (age, religion, family status, etc.).
+
+OUTPUT FORMAT
+-------------
+Return ONLY a numbered list of questions. No preamble, explanations, or answers.
+
+1. [HR question]
+2. [HR question]
+...
+
+BEGIN:

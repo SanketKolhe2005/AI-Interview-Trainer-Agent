@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Explain the difference between a process and a thread. When would you choose one over the other?",
+    "difficulty": "intermediate",
+    "topic": "Operating Systems",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What is the time and space complexity of QuickSort in the average case and worst case? How can the worst case be avoided?",
+    "difficulty": "intermediate",
+    "topic": "Algorithms & Data Structures",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "Describe the SOLID principles. Give a concrete code example where violating the Single Responsibility Principle caused a problem.",
+    "difficulty": "intermediate",
+    "topic": "Software Design",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What is the difference between SQL and NoSQL databases? In what scenarios would you pick a document store like MongoDB over a relational database like PostgreSQL?",
+    "difficulty": "intermediate",
+    "topic": "Databases",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "Explain how HTTP/HTTPS works. What happens from the moment a user types a URL in a browser to when the page is rendered?",
+    "difficulty": "intermediate",
+    "topic": "Networking",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What is a deadlock? Describe the four conditions required for a deadlock to occur and how each can be prevented.",
+    "difficulty": "advanced",
+    "topic": "Operating Systems",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "Explain the concept of dependency injection and inversion of control. How does a DI container work?",
+    "difficulty": "intermediate",
+    "topic": "Software Design",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What is a REST API? Compare REST with GraphQL and gRPC, and describe a scenario best suited for each.",
+    "difficulty": "intermediate",
+    "topic": "APIs & Web Services",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "Describe how garbage collection works in Java or Python. What are memory leaks and how do you detect them?",
+    "difficulty": "advanced",
+    "topic": "Memory Management",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What is a binary search tree? Implement an in-order traversal and explain its time complexity.",
+    "difficulty": "basic",
+    "topic": "Algorithms & Data Structures",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "Explain the CAP theorem. If you had to build a globally distributed e-commerce checkout system, which properties would you prioritise and why?",
+    "difficulty": "advanced",
+    "topic": "Distributed Systems",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What design pattern would you use to implement an undo/redo feature in a text editor? Describe the pattern and its participants.",
+    "difficulty": "advanced",
+    "topic": "Design Patterns",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What are the differences between unit tests, integration tests, and end-to-end tests? What test coverage percentage do you consider acceptable?",
+    "difficulty": "intermediate",
+    "topic": "Testing",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "Explain how a hash map works internally. What happens during a collision and how is it resolved?",
+    "difficulty": "intermediate",
+    "topic": "Algorithms & Data Structures",
+    "role": "Software Engineer"
+  },
+  {
+    "question": "What is eventual consistency in distributed systems? How does it differ from strong consistency, and what are the trade-offs?",
+    "difficulty": "advanced",
+    "topic": "Distributed Systems",
+    "role": "Software Engineer"
+  }
+]

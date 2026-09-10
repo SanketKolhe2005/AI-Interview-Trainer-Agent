@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Explain the difference between continuous integration, continuous delivery, and continuous deployment. How do you implement a CI/CD pipeline for a microservices application?",
+    "difficulty": "intermediate",
+    "topic": "CI/CD",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "What is a container and how does Docker differ from a virtual machine? Describe the key components of a Dockerfile.",
+    "difficulty": "basic",
+    "topic": "Containerisation",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "Explain Kubernetes architecture. What are the roles of the control plane components: API server, etcd, scheduler, and controller manager?",
+    "difficulty": "advanced",
+    "topic": "Kubernetes",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "What is Infrastructure as Code? Compare Terraform and Ansible in terms of use cases, state management, and idempotency.",
+    "difficulty": "intermediate",
+    "topic": "Infrastructure as Code",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "Describe a blue-green deployment strategy. How does it differ from canary releases and rolling updates? When would you use each?",
+    "difficulty": "intermediate",
+    "topic": "Deployment Strategies",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "A production service is returning 502 errors. Walk through the step-by-step approach you would take to diagnose and resolve the issue.",
+    "difficulty": "advanced",
+    "topic": "Incident Management",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "What is a service mesh? Explain the role of Istio or Linkerd in a microservices architecture and what problems it solves.",
+    "difficulty": "advanced",
+    "topic": "Microservices & Networking",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "How do you manage secrets in a Kubernetes cluster? Compare Kubernetes Secrets, HashiCorp Vault, and AWS Secrets Manager.",
+    "difficulty": "advanced",
+    "topic": "Security",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "Explain the concept of observability. What are the three pillars of observability and what tools do you use for each?",
+    "difficulty": "intermediate",
+    "topic": "Monitoring & Observability",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "What is a Helm chart? How do you manage environment-specific configurations across dev, staging, and production using Helm?",
+    "difficulty": "intermediate",
+    "topic": "Kubernetes",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "Describe the Twelve-Factor App methodology. Which factors are most important for cloud-native application design and why?",
+    "difficulty": "intermediate",
+    "topic": "Cloud-Native Architecture",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "How do you implement auto-scaling in Kubernetes? Compare horizontal pod autoscaler (HPA) with vertical pod autoscaler (VPA).",
+    "difficulty": "advanced",
+    "topic": "Kubernetes",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "What is a load balancer? Explain the difference between Layer 4 and Layer 7 load balancing and give examples of tools for each.",
+    "difficulty": "intermediate",
+    "topic": "Networking",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "How do you implement a disaster recovery strategy for a cloud-hosted application? Define RTO and RPO and how they influence your architecture.",
+    "difficulty": "advanced",
+    "topic": "High Availability & DR",
+    "role": "DevOps Engineer"
+  },
+  {
+    "question": "What is GitOps? How do tools like ArgoCD or Flux implement the GitOps model for Kubernetes deployments?",
+    "difficulty": "advanced",
+    "topic": "CI/CD",
+    "role": "DevOps Engineer"
+  }
+]

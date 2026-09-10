@@ -1,0 +1,48 @@
+ROLE: Software Engineer
+========================
+
+ROLE OVERVIEW
+-------------
+A Software Engineer designs, develops, tests, and maintains software systems and applications. They translate functional and technical requirements into production-ready code, collaborate with cross-functional teams, and own the reliability and scalability of the software they build. Software Engineers work across the full stack or specialise in frontend, backend, or infrastructure depending on the organisation's structure.
+
+KEY RESPONSIBILITIES
+--------------------
+- Design and implement features, APIs, and services based on product requirements
+- Write clean, maintainable, and well-tested code following engineering standards
+- Participate in code reviews to ensure code quality and share knowledge
+- Debug and resolve production issues, escalating critical incidents appropriately
+- Collaborate with product managers, designers, and other engineers in agile sprints
+- Contribute to system design and architecture discussions
+- Write technical documentation for systems, APIs, and decisions
+- Continuously improve the development workflow through tooling, automation, and process improvements
+- Mentor junior engineers and provide technical guidance
+
+IMPORTANT SKILLS
+----------------
+Technical Skills:
+- Proficiency in at least one language: Python, Java, Go, JavaScript/TypeScript, C++
+- Data structures and algorithms (arrays, trees, graphs, heaps, sorting, searching)
+- Object-oriented and functional programming paradigms
+- Relational databases (SQL, PostgreSQL, MySQL) and NoSQL databases (MongoDB, Redis)
+- REST API design and consumption; familiarity with GraphQL or gRPC
+- Version control with Git; branching strategies (GitFlow, trunk-based development)
+- Testing: unit tests, integration tests, TDD/BDD
+- Basic understanding of cloud platforms (AWS, GCP, Azure) and containerisation (Docker)
+
+Soft Skills:
+- Strong problem-solving and analytical thinking
+- Effective written and verbal communication
+- Ability to work collaboratively in agile/scrum teams
+- Ownership mindset and accountability
+- Continuous learning and adaptability
+
+COMMON INTERVIEW FOCUS AREAS
+------------------------------
+1. Data Structures & Algorithms: Expect coding problems on arrays, linked lists, trees, graphs, dynamic programming, and sorting. Time and space complexity analysis is mandatory.
+2. System Design: Design scalable systems such as URL shorteners, distributed caches, social feeds, or ride-sharing platforms. Focus on trade-offs, database choice, and scalability.
+3. Object-Oriented Design: Class hierarchies, design patterns (Factory, Singleton, Observer, Strategy, Command), SOLID principles.
+4. Databases: SQL query writing, indexing strategies, normalisation, and NoSQL trade-offs.
+5. Operating Systems & Concurrency: Processes vs. threads, deadlocks, synchronisation primitives, memory management.
+6. Networking Basics: HTTP/HTTPS, TCP/UDP, DNS, REST, status codes.
+7. Behavioural: Collaboration, handling disagreements with technical leads, project ownership, debugging war stories.
+8. Code Quality: Clean code, refactoring approaches, test coverage.

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Walk me through how you define and validate a product vision. How do you ensure alignment between engineering, design, and business stakeholders?",
+    "difficulty": "intermediate",
+    "topic": "Product Vision & Strategy",
+    "role": "Product Manager"
+  },
+  {
+    "question": "How do you prioritise features in a product backlog? Compare prioritisation frameworks such as RICE, MoSCoW, and Kano. Give an example of when you applied one.",
+    "difficulty": "intermediate",
+    "topic": "Prioritisation",
+    "role": "Product Manager"
+  },
+  {
+    "question": "Describe how you would define and track key metrics for a new feature launch. What is the difference between vanity metrics and actionable metrics?",
+    "difficulty": "intermediate",
+    "topic": "Metrics & Analytics",
+    "role": "Product Manager"
+  },
+  {
+    "question": "What is a product roadmap? How do you balance short-term delivery commitments with long-term strategic goals when building one?",
+    "difficulty": "intermediate",
+    "topic": "Roadmapping",
+    "role": "Product Manager"
+  },
+  {
+    "question": "How do you conduct user research to validate a product hypothesis? Compare qualitative methods (user interviews) with quantitative methods (surveys, analytics).",
+    "difficulty": "intermediate",
+    "topic": "User Research",
+    "role": "Product Manager"
+  },
+  {
+    "question": "Describe the process of writing a product requirements document (PRD) or a product spec. What sections are essential and why?",
+    "difficulty": "basic",
+    "topic": "Requirements & Documentation",
+    "role": "Product Manager"
+  },
+  {
+    "question": "How do you work with engineering teams during sprint planning? What is your approach when technical debt competes with new feature development?",
+    "difficulty": "intermediate",
+    "topic": "Agile & Delivery",
+    "role": "Product Manager"
+  },
+  {
+    "question": "Walk through how you would perform a competitive analysis for a new market entry. What frameworks or tools do you use?",
+    "difficulty": "intermediate",
+    "topic": "Market & Competitive Analysis",
+    "role": "Product Manager"
+  },
+  {
+    "question": "What is a go-to-market strategy? Describe the key components you would define when launching a new product from scratch.",
+    "difficulty": "advanced",
+    "topic": "Go-to-Market",
+    "role": "Product Manager"
+  },
+  {
+    "question": "How do you handle a situation where a major customer requests a feature that does not align with your product strategy?",
+    "difficulty": "advanced",
+    "topic": "Stakeholder Management",
+    "role": "Product Manager"
+  },
+  {
+    "question": "Explain the concept of product-market fit. How do you measure it and what signals tell you that you have or have not achieved it?",
+    "difficulty": "advanced",
+    "topic": "Product Strategy",
+    "role": "Product Manager"
+  },
+  {
+    "question": "Describe how you use A/B testing in product decision-making. What are the risks of A/B testing and how do you mitigate them?",
+    "difficulty": "intermediate",
+    "topic": "Experimentation",
+    "role": "Product Manager"
+  },
+  {
+    "question": "How do you define user personas and jobs-to-be-done? How do these tools influence feature prioritisation decisions?",
+    "difficulty": "intermediate",
+    "topic": "User Research",
+    "role": "Product Manager"
+  },
+  {
+    "question": "You have limited engineering capacity and three high-impact features requested by different stakeholders. How do you decide what to build next?",
+    "difficulty": "advanced",
+    "topic": "Prioritisation",
+    "role": "Product Manager"
+  },
+  {
+    "question": "What is a product funnel? Walk through the AARRR (Pirate Metrics) framework and explain how each stage influences product decisions.",
+    "difficulty": "intermediate",
+    "topic": "Metrics & Analytics",
+    "role": "Product Manager"
+  }
+]

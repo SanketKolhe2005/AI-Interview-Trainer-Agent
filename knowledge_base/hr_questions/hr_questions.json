@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "category": "Introduction",
+    "intent": "Assess communication skills, self-awareness, and ability to present a concise professional narrative."
+  },
+  {
+    "question": "Why do you want to work at this company?",
+    "category": "Motivation & Culture Fit",
+    "intent": "Evaluate whether the candidate has researched the company and can articulate genuine interest aligned with company values."
+  },
+  {
+    "question": "What are your greatest strengths?",
+    "category": "Self-Assessment",
+    "intent": "Identify self-awareness and ability to connect personal strengths to the role requirements."
+  },
+  {
+    "question": "What is your greatest weakness, and what are you doing to improve it?",
+    "category": "Self-Assessment",
+    "intent": "Test honesty, self-awareness, and growth mindset. Look for genuine reflection rather than disguised strengths."
+  },
+  {
+    "question": "Where do you see yourself in five years?",
+    "category": "Career Goals",
+    "intent": "Understand the candidate's career ambitions and assess alignment with the role and company growth trajectory."
+  },
+  {
+    "question": "Why are you leaving your current job?",
+    "category": "Career Transition",
+    "intent": "Identify professionalism, assess whether the candidate speaks negatively about previous employers, and understand motivations."
+  },
+  {
+    "question": "What motivates you in your work?",
+    "category": "Motivation & Culture Fit",
+    "intent": "Understand intrinsic vs. extrinsic motivators and whether they align with what the role and company offer."
+  },
+  {
+    "question": "Describe a time you faced a significant challenge at work and how you overcame it.",
+    "category": "Problem Solving",
+    "intent": "Evaluate resilience, problem-solving approach, and ability to navigate adversity using the STAR method."
+  },
+  {
+    "question": "How do you handle pressure and tight deadlines?",
+    "category": "Stress Management",
+    "intent": "Assess ability to perform under stress, prioritisation skills, and coping mechanisms."
+  },
+  {
+    "question": "Tell me about a time you disagreed with a manager or team member. How did you handle it?",
+    "category": "Conflict Resolution",
+    "intent": "Evaluate interpersonal skills, maturity, and ability to resolve conflicts constructively."
+  },
+  {
+    "question": "How do you prioritise your tasks when you have multiple deadlines?",
+    "category": "Time Management",
+    "intent": "Assess organisational skills, the use of prioritisation frameworks, and ability to manage competing demands."
+  },
+  {
+    "question": "Describe a situation where you had to work with a difficult team member. What did you do?",
+    "category": "Teamwork & Collaboration",
+    "intent": "Evaluate empathy, communication, and ability to collaborate effectively with diverse personalities."
+  },
+  {
+    "question": "What do you know about our company and industry?",
+    "category": "Research & Preparation",
+    "intent": "Test the depth of candidate research, interest in the company, and awareness of industry context."
+  },
+  {
+    "question": "What is your expected salary?",
+    "category": "Compensation",
+    "intent": "Assess the candidate's market awareness, confidence in negotiation, and alignment with budget."
+  },
+  {
+    "question": "Do you prefer working independently or as part of a team?",
+    "category": "Work Style",
+    "intent": "Understand the candidate's work preferences and evaluate fit with team dynamics."
+  },
+  {
+    "question": "How do you handle receiving critical feedback or criticism?",
+    "category": "Adaptability & Growth",
+    "intent": "Assess openness to feedback, ability to incorporate criticism constructively, and emotional maturity."
+  },
+  {
+    "question": "Tell me about your greatest professional achievement.",
+    "category": "Accomplishments",
+    "intent": "Understand the candidate's definition of success, ability to quantify impact, and pride in work."
+  },
+  {
+    "question": "What makes you the best candidate for this role?",
+    "category": "Value Proposition",
+    "intent": "Evaluate confidence, ability to articulate unique value, and alignment of skills with the job description."
+  },
+  {
+    "question": "How do you stay current with industry trends and continuously develop your skills?",
+    "category": "Continuous Learning",
+    "intent": "Assess growth mindset, self-directed learning habits, and commitment to professional development."
+  },
+  {
+    "question": "Describe your ideal work environment.",
+    "category": "Culture Fit",
+    "intent": "Understand what conditions help the candidate thrive and whether the company culture is a match."
+  },
+  {
+    "question": "What are your short-term and long-term career goals?",
+    "category": "Career Goals",
+    "intent": "Assess ambition, planning, and whether the role is a logical step in the candidate's career path."
+  },
+  {
+    "question": "Have you ever missed a deadline? What happened and what did you learn?",
+    "category": "Accountability",
+    "intent": "Test honesty, accountability, and the ability to learn from failure without deflecting blame."
+  }
+]

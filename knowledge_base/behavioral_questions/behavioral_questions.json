@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Tell me about a time when you led a project or initiative from start to finish. What was your approach and what was the outcome?",
+    "competency": "Leadership",
+    "star_hint": "Situation: Describe the project context and its importance. Task: Explain your specific leadership responsibility. Action: Detail how you planned, delegated, and drove execution. Result: Quantify the outcome — delivery timeline, impact, team feedback."
+  },
+  {
+    "question": "Describe a situation where you had to adapt quickly to a significant change in priorities or requirements. How did you manage the transition?",
+    "competency": "Adaptability",
+    "star_hint": "Situation: Set the context — what changed and why unexpectedly. Task: What was your responsibility during the transition. Action: Steps you took to reprioritise, communicate, and adjust. Result: How the team or project benefited from your adaptability."
+  },
+  {
+    "question": "Give an example of a time you identified a problem before it became critical. How did you identify it and what actions did you take?",
+    "competency": "Problem Solving & Initiative",
+    "star_hint": "Situation: Describe the environment where the latent issue existed. Task: Your role and why spotting the problem was your responsibility. Action: How you diagnosed and escalated or resolved it proactively. Result: What you prevented and the value created."
+  },
+  {
+    "question": "Tell me about a time you had to persuade or influence a stakeholder who disagreed with your recommendation. How did you approach it?",
+    "competency": "Influencing & Communication",
+    "star_hint": "Situation: Who the stakeholder was and what was at stake. Task: What decision you were advocating for and why. Action: How you built your case, used data, and listened to their concerns. Result: Whether they were convinced and what the outcome was."
+  },
+  {
+    "question": "Describe a time when you worked on a cross-functional team with competing priorities. How did you ensure collaboration and delivery?",
+    "competency": "Teamwork & Collaboration",
+    "star_hint": "Situation: Describe the cross-functional team composition and the project. Task: Your specific role and contribution. Action: Conflict resolution, communication strategies, and coordination. Result: Successful delivery and team dynamics post-project."
+  },
+  {
+    "question": "Tell me about the most complex problem you have solved in your career. Walk through your thinking process.",
+    "competency": "Analytical Thinking",
+    "star_hint": "Situation: What made the problem complex — technical, organisational, or data-related. Task: Why solving it was your responsibility. Action: Step-by-step problem decomposition, tools used, hypotheses tested. Result: The solution's impact and any lessons learned."
+  },
+  {
+    "question": "Give an example of when you had to deliver critical feedback to a colleague or report. How did you approach the conversation?",
+    "competency": "Communication & Empathy",
+    "star_hint": "Situation: Context of the performance issue or behaviour. Task: Why it was your responsibility to address it. Action: How you prepared, the words you chose, and how you made it constructive. Result: How the person responded and what changed."
+  },
+  {
+    "question": "Describe a time when you failed to meet a goal or commitment. What happened and what did you do differently afterward?",
+    "competency": "Accountability & Resilience",
+    "star_hint": "Situation: What the goal was and what circumstances led to the miss. Task: Your ownership of the failure. Action: How you communicated the miss and what corrective actions you took. Result: What you learned and how your behaviour changed."
+  },
+  {
+    "question": "Tell me about a time you managed multiple high-priority tasks simultaneously. How did you decide what to focus on and how did you ensure nothing fell through the cracks?",
+    "competency": "Time Management & Prioritisation",
+    "star_hint": "Situation: Describe the volume and urgency of competing demands. Task: Your responsibilities across the tasks. Action: Prioritisation method, tools used, how you communicated with stakeholders. Result: Outcomes delivered and any lessons on managing capacity."
+  },
+  {
+    "question": "Give an example of a time you took a calculated risk at work. How did you evaluate the risk and what was the result?",
+    "competency": "Decision Making",
+    "star_hint": "Situation: What the risk was and what prompted the decision. Task: Why the decision was yours to make. Action: How you assessed the probability of failure and mitigation options. Result: What happened — whether it paid off and what you learned."
+  },
+  {
+    "question": "Describe a time when you had to learn a new skill or technology rapidly to complete a project. How did you approach the learning?",
+    "competency": "Continuous Learning",
+    "star_hint": "Situation: What triggered the need to learn quickly and what was at stake. Task: The new skill and your gap at the start. Action: Resources, methods, and pace of learning. Result: How you applied the skill and its impact on the project."
+  },
+  {
+    "question": "Tell me about a time you successfully handled a difficult customer or client. What was the situation and what did you do?",
+    "competency": "Customer Focus",
+    "star_hint": "Situation: Who the customer was and what made them difficult. Task: Your role in managing the relationship. Action: Listening, empathy, solutions offered, escalations managed. Result: How the customer relationship ended and business impact."
+  },
+  {
+    "question": "Describe a situation where you had to meet an extremely tight deadline. How did you organise yourself and your team to deliver on time?",
+    "competency": "Execution Under Pressure",
+    "star_hint": "Situation: What the deadline was and why it was non-negotiable. Task: Your scope of responsibility. Action: How you broke down the work, removed blockers, and maintained quality. Result: Whether you delivered on time and the quality of the output."
+  },
+  {
+    "question": "Give an example of a time you introduced an improvement or innovation to a process. How did you identify the opportunity and implement the change?",
+    "competency": "Innovation & Continuous Improvement",
+    "star_hint": "Situation: What the existing process was and what pain point you observed. Task: Why you owned the improvement. Action: How you designed the solution, piloted it, and got buy-in. Result: Measurable improvement in efficiency, quality, or cost."
+  },
+  {
+    "question": "Tell me about a time you had to make an important decision with incomplete information. What was your approach?",
+    "competency": "Judgement & Decision Making",
+    "star_hint": "Situation: What decision was needed and why full information was unavailable. Task: Why the decision was time-sensitive and yours to make. Action: How you gathered the best available data, assessed risk, and chose a path. Result: The outcome and what you would do differently."
+  },
+  {
+    "question": "Describe a time when you mentored or developed a junior colleague. What was your approach and what was the impact?",
+    "competency": "Mentoring & People Development",
+    "star_hint": "Situation: Who you mentored and in what context. Task: Your responsibility for their development. Action: Coaching techniques, knowledge sharing, feedback frequency. Result: How the junior colleague grew and the team impact."
+  }
+]
