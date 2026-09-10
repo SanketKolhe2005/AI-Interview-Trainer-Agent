@@ -1,0 +1,38 @@
+# ============================================================
+# AI Interview Trainer Agent — Python Dependencies
+# ============================================================
+# Install with: pip install -r requirements.txt
+# Requires Python 3.10+
+
+# ── IBM watsonx.ai ──────────────────────────────────────────
+ibm-watsonx-ai>=0.2.6
+
+# ── LangChain (RAG framework) ───────────────────────────────
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-huggingface>=0.1.0
+
+# ── Vector Store ────────────────────────────────────────────
+chromadb>=0.5.0
+langchain-chroma>=0.1.0
+
+# ── Embeddings ──────────────────────────────────────────────
+sentence-transformers>=3.0.0
+
+# ── UI ──────────────────────────────────────────────────────
+gradio>=5.9.1
+
+# ── Environment / Config ────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ── Document Loading ────────────────────────────────────────
+pypdf>=4.0.0
+
+# ── Tokenisation (chunking utilities) ───────────────────────
+tiktoken>=0.7.0
+
+# ── Testing ─────────────────────────────────────────────────
+pytest>=8.0.0
+pytest-mock>=3.14.0
